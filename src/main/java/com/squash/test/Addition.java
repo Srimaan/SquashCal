@@ -15,6 +15,8 @@ public class Addition {
         return a+b+c+d;
     }
 
-
+    public int addition(int a, int b, int c, int d, int e) {
+        return a+b+c+d+e;
+    }
 
 }
