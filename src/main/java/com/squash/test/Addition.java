@@ -12,13 +12,7 @@ public class Addition {
 
     public int addition(int a, int b, int c, int d, int e) {
         return a+b+c+d+e;
+
     }
 
-    //commit 1
-
-    //Commit 2
-
-    //Commit 3
-
-    //Commit 4
 }
